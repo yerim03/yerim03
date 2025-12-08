@@ -13,8 +13,6 @@
 
 </br></br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerim03&layout=compact)
-&nbsp;&nbsp;&nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=na90303)](https://solved.ac/na90303)
 
 
